@@ -6,9 +6,9 @@
 
 ### Hello. I'm Anderson Shermann, a rising developer. Welcome to my profile!
 
- [<img src="https://github.com/AndersonShermann/AndersonShermann/blob/master/Images/linkedin.png" width="10" height="10"> LinkedIn](https://www.linkedin.com/in/andersonshermann/)
+ [<img src="https://github.com/AndersonShermann/AndersonShermann/blob/master/Images/linkedin.png" width="30" height="30"> LinkedIn](https://www.linkedin.com/in/andersonshermann/)
 
-[<img src="https://github.com/AndersonShermann/AndersonShermann/blob/master/Images/insta.png" width="10" height="10"> Instagram](https://www.instagram.com/shermann3345/?hl=pt-br)
+[<img src="https://github.com/AndersonShermann/AndersonShermann/blob/master/Images/insta.png" width="30" height="30"> Instagram](https://www.instagram.com/shermann3345/?hl=pt-br)
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
