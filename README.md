@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 
 
-##### Carrer transition
+#### Carrer transition
 
 ​	I'm a guy who decided to go after what really makes me happy. :sunglasses: :computer:
 
@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 
 
-##### "The field of defeat is not peopled with failures, but with men who fell before winning. " 
+#### "The field of defeat is not peopled with failures, but with men who fell before winning. " 
 
 ###### 																																							      																																			Abraham Lincoln:tophat:
 
