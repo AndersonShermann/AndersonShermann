@@ -6,7 +6,7 @@
 
 ### Hello. I'm Anderson Shermann, a rising developer. Welcome to my profile!
 
- [<img src="https://github.com/AndersonShermann/AndersonShermann/blob/master/Images/linkedin.png" width="50" height="35"> LinkedIn](https://www.linkedin.com/in/andersonshermann/)
+ [<img src="https://github.com/AndersonShermann/AndersonShermann/blob/master/Images/linkedin.png" width="50" height="30"> LinkedIn](https://www.linkedin.com/in/andersonshermann/)
 
 [<img src="https://github.com/AndersonShermann/AndersonShermann/blob/master/Images/insta.png" width="50" height="50"> Instagram](https://www.instagram.com/shermann3345/?hl=pt-br)
 
