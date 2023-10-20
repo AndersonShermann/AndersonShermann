@@ -32,6 +32,7 @@ Currently studying a Full Stack training program through Recode Pro where I am d
 <div>
 <a href="https://github.com/AndersonShermann"> 
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonShermann&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AndersonShermann&show_icons=true&rank_icon=github&theme=dracula&hide=stars,prs,issues&custom_title=Anderson Shermann Git Stats">
 </a>
 </div>
 
