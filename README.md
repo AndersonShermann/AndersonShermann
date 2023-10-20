@@ -1,4 +1,6 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Anderson and my nickname is Shermann![1000GIF](https://github.com/AndersonShermann/AndersonShermann/assets/80277396/d0362d4b-50b2-4d3f-b4ad-b967eb9f0c39)
+!
 
 <!--
 **AndersonShermann/AndersonShermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
