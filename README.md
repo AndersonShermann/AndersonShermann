@@ -31,7 +31,7 @@ Currently studying a Full Stack training program through Recode Pro where I am d
 
 <div>
 <a href="https://github.com/AndersonShermann"> 
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonShermann&hide=Jupyter Notebook&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonShermann&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 </div>
 
