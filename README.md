@@ -1,9 +1,9 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Anderson and my nickname is Shermann!
 
-### I am a systems analysis and development student at Candido Mendes University.
+I am a systems analysis and development student at Candido Mendes University.
 
-### Currently studying a full stack training program through Recode Pro where I am developing and improving my technical and personal skills to enter the technology sector.
+Currently studying a full stack training program through Recode Pro where I am developing and improving my technical and personal skills to enter the technology sector.
 
 
 <!--
