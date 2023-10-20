@@ -8,10 +8,6 @@ I am a Systems Analysis and Development student at Candido Mendes University.
 
 Currently studying a Full Stack training program through Recode Pro where I am developing and improving my technical and personal skills to enter the technology sector.
 
-<hr>
-
-##### 💼 Professional Profile
-
 <a href="https://www.linkedin.com/in/andersonshermann/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="70" height="70" /></a>
 <hr>
