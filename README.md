@@ -6,7 +6,7 @@ I am a systems analysis and development student at Candido Mendes University.
 Currently studying a full stack training program through Recode Pro where I am developing and improving my technical and personal skills to enter the technology sector.
 
 <a href="https://www.linkedin.com/in/andersonshermann/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="50" height="50" /></a>
 
 <!--
 **AndersonShermann/AndersonShermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
